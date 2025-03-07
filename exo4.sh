@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p public/{assets/img,css/{footer,header,main},pages,js} && touch public/index.html public/css/footer/style.css public/css/header/style.css public/css/main/style.css public/js/main.js public/img/img1.jpg public/img/img2.jpg
+mkdir -p public/{assets/img,css/{footer,header,main},pages,js} && touch public/index.html public/css/footer/style.css public/css/header/style.css public/css/main/style.css public/js/main.js public/assets/img/img1.png public/assets/img/img2.png
